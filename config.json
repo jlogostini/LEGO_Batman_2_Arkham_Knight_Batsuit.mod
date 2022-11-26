@@ -21,13 +21,13 @@
 	}],
 	"InstallActions": [{
 			"Action": "ReplaceFile",
-			"TargetFile": "[Game]\\CHARS\\MINIFIGS\\SUPER_CHARACTERS\\BODY\\BODY_BATMAN_FRONT_NXG.TEX",
-			"ReplacementFile": "[Mod]\\BODY_BATMAN_FRONT_NXG.TEX"
+			"TargetFile": "[Game]\\CHARS\\MINIFIGS\\SUPER_CHARACTERS\\BODY\\BODY_BATMANDARK_FRONT_NXG.TEX",
+			"ReplacementFile": "[Mod]\\BODY_BATMANDARK_FRONT_NXG.TEX"
 		},
 		{
 			"Action": "ReplaceFile",
-			"TargetFile": "[Game]\\CHARS\\MINIFIGS\\SUPER_CHARACTERS\\BODY\\BODY_BATMAN_BACK_NXG.TEX",
-			"ReplacementFile": "[Mod]\\BODY_BATMAN_BACK_NXG.TEX"
+			"TargetFile": "[Game]\\CHARS\\MINIFIGS\\SUPER_CHARACTERS\\BODY\\BODY_BATMANDARK_BACK_NXG.TEX",
+			"ReplacementFile": "[Mod]\\BODY_BATMANDARK_BACK_NXG.TEX"
 		},
 		{
 			"Action": "ReplaceFile",
