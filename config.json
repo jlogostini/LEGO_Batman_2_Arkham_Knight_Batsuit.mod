@@ -1,0 +1,48 @@
+{
+	"Version": "1.0",
+	"ModID": "lego_batman_2_arkham-knight-batsuit",
+	"Author": {
+		"Name": "JohnLogostini",
+		"Role": "Mod Creator"
+	},
+	"Contributors": [{
+		"Name": "Swifty",
+		"Role": "Created all of the texturs Discord name Swifty#4972"
+	}],
+	"DisplayName": "Arkham Knight Batsuit",
+	"DisplayImage": "assets\\art\\portrait.png",
+	"DisplayBackground": "assets\\art\\background.png",
+	"Description": "#Info\nThis mod adds a custom version of the Arkham Knight Batsuit made by Swifty\n\nJoin the Discord Sever for more info or if you need help installing the mod\n( https://discord.gg/Q9gwRYzF8U )\n\nContinuum Mod Manager 1.1.0 Beta or later is required",
+	"LinkedIntegrations": [{
+		"IntegrationID": "lego-batman-2-dc-super-heroes",
+		"TargetVersion": "1.6.*",
+		"MinimumVersion": "1.*",
+		"ModCategory": "character"
+	}],
+	"InstallActions": [{
+			"Action": "ReplaceFile",
+			"TargetFile": "[Game]\\FRAMEWORK-DATA\\GUI\\FONT\\BUTTONS_PC_NXG.FT2",
+			"ReplacementFile": "[Mod]\\Sony\\PS5_Dualsense\\BUTTONS_PC_NXG.FT2"
+		},
+		{
+			"Action": "ReplaceFile",
+			"TargetFile": "[Game]\\FRAMEWORK-DATA\\GUI\\FONT\\BUTTONS_PC_NXG.FT2",
+			"ReplacementFile": "[Mod]\\Sony\\PS4_DualShock_4\\BUTTONS_PC_NXG.FT2"
+		},
+		{
+			"Action": "ReplaceFile",
+			"TargetFile": "[Game]\\FRAMEWORK-DATA\\GUI\\FONT\\BUTTONS_PC_NXG.FT2",
+			"ReplacementFile": "[Mod]\\Sony\\PS3_DualShock_3\\BUTTONS_PC_NXG.FT2"
+		},
+		{
+			"Action": "ReplaceFile",
+			"TargetFile": "[Game]\\FRAMEWORK-DATA\\GUI\\FONT\\BUTTONS_PC_NXG.FT2",
+			"ReplacementFile": "[Mod]\\Sony\\PS2_DualShock_2\\BUTTONS_PC_NXG.FT2"
+		},
+		{
+			"Action": "ReplaceFile",
+			"TargetFile": "[Game]\\FRAMEWORK-DATA\\GUI\\FONT\\BUTTONS_PC_NXG.FT2",
+			"ReplacementFile": "[Mod]\\Sony\\PS1_PlayStation_Controller\\BUTTONS_PC_NXG.FT2"
+		}
+	]
+}
