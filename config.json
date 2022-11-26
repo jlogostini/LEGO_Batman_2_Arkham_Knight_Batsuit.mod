@@ -21,28 +21,23 @@
 	}],
 	"InstallActions": [{
 			"Action": "ReplaceFile",
-			"TargetFile": "[Game]\\FRAMEWORK-DATA\\GUI\\FONT\\BUTTONS_PC_NXG.FT2",
-			"ReplacementFile": "[Mod]\\Sony\\PS5_Dualsense\\BUTTONS_PC_NXG.FT2"
+			"TargetFile": "[Game]\\CHARS\\MINIFIGS\\SUPER_CHARACTERS\\BODY\\BODY_BATMAN_FRONT_NXG.TEX",
+			"ReplacementFile": "[Mod]\\BODY_BATMAN_FRONT_NXG.TEX"
 		},
 		{
 			"Action": "ReplaceFile",
-			"TargetFile": "[Game]\\FRAMEWORK-DATA\\GUI\\FONT\\BUTTONS_PC_NXG.FT2",
-			"ReplacementFile": "[Mod]\\Sony\\PS4_DualShock_4\\BUTTONS_PC_NXG.FT2"
+			"TargetFile": "[Game]\\CHARS\\MINIFIGS\\SUPER_CHARACTERS\\BODY\\BODY_BATMAN_BACK_NXG.TEX",
+			"ReplacementFile": "[Mod]\\BODY_BATMAN_BACK_NXG.TEX"
 		},
 		{
 			"Action": "ReplaceFile",
-			"TargetFile": "[Game]\\FRAMEWORK-DATA\\GUI\\FONT\\BUTTONS_PC_NXG.FT2",
-			"ReplacementFile": "[Mod]\\Sony\\PS3_DualShock_3\\BUTTONS_PC_NXG.FT2"
+			"TargetFile": "[Game]\\CHARS\\MINIFIGS\\SUPER_CHARACTERS\\HEADS\\HEAD_BATMAN_FRONT_NXG.TEX",
+			"ReplacementFile": "[Mod]\\HEAD_BATMAN_FRONT_NXG.TEX"
 		},
 		{
 			"Action": "ReplaceFile",
-			"TargetFile": "[Game]\\FRAMEWORK-DATA\\GUI\\FONT\\BUTTONS_PC_NXG.FT2",
-			"ReplacementFile": "[Mod]\\Sony\\PS2_DualShock_2\\BUTTONS_PC_NXG.FT2"
-		},
-		{
-			"Action": "ReplaceFile",
-			"TargetFile": "[Game]\\FRAMEWORK-DATA\\GUI\\FONT\\BUTTONS_PC_NXG.FT2",
-			"ReplacementFile": "[Mod]\\Sony\\PS1_PlayStation_Controller\\BUTTONS_PC_NXG.FT2"
+			"TargetFile": "[Game]\\STUFF\\ICONS\\BATMAN_NXG.TEX",
+			"ReplacementFile": "[Mod]\\BATMAN_NXG.TEX"
 		}
 	]
 }
